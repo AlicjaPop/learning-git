@@ -6,3 +6,4 @@ for i in range (0,100):
 print(numbers_div_5)
 numbers_exp_3=[number**3 for number in numbers_div_5]
 print(numbers_exp_3)
+print(numbers_div_5)
